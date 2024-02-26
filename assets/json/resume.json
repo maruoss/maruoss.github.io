@@ -24,7 +24,13 @@
       "url": "https://www.snb.ch/en/",
       "startDate": "2023-09",
       "endDate": "",
-      "highlights": ["Construct end-to-end ML pipelines using Python", "Optimize models to enhance forecast accuracy using mlflow", "Implementation of CI/CD pipelines in gitlab", "Review and debugging of team members code", "Testing using pytest"]
+      "highlights": [
+        "Construct end-to-end ML pipelines using Python",
+        "Optimize models to enhance forecast accuracy using mlflow",
+        "Implementation of CI/CD pipelines in gitlab",
+        "Review and debugging of team members code",
+        "Testing using pytest"
+      ]
     }
   ],
   "Education": [
@@ -37,7 +43,12 @@
       "startDate": "2019-09",
       "endDate": "2023-02",
       "score": "5.6/6.0",
-      "courses": ["Deep Learning", "Advanced Machine Learning", "Probabilistic AI", "Introduction to Machine Learning"]
+      "courses": [
+        "Deep Learning",
+        "Advanced Machine Learning",
+        "Probabilistic AI",
+        "Introduction to Machine Learning"
+      ]
     }
   ],
   "Awards": [
@@ -70,7 +81,10 @@
     {
       "name": "Physics",
       "type": "list",
-      "contents": ["Basketball", "Football"]
+      "contents": [
+        "Basketball",
+        "Football"
+      ]
     }
   ]
 }

@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Mathias Ruoss",
-    "born": "1995",
     "image": "",
     "email": "",
     "phone": "",
@@ -9,7 +8,7 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "8005",
       "city": "Zurich",
       "countryCode": "CH",
       "region": "Zurich"

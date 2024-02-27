@@ -1,6 +1,8 @@
 {
   "basics": {
     "name": "Mathias Ruoss",
+    "languages": "German, English, French",
+    "address": "Zurich, 8005, Switzerland",
     "image": "",
     "email": "",
     "phone": "",
@@ -20,7 +22,7 @@
       "name": "Swiss National Bank (SNB)",
       "position": "Data Science Intern",
       "url": "https://www.snb.ch/en/",
-      "startDate": "2023-09",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": [
@@ -35,8 +37,8 @@
       "name": "UBS AG",
       "position": "Equity Derivatives Sales Intern",
       "url": "https://www.ubs.com/ch/en.html",
-      "startDate": "2019-03",
-      "endDate": "2019-08",
+      "startDate": "2019",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Engineered and priced structured products",
@@ -49,8 +51,8 @@
       "name": "UBS AG",
       "position": "Reporting Specialist",
       "url": "https://www.ubs.com/ch/en.html",
-      "startDate": "2013-12",
-      "endDate": "2015-07",
+      "startDate": "2013",
+      "endDate": "2015",
       "summary": "",
       "highlights": [
         "Gap year for personal growth and exploration before university studies",
@@ -67,8 +69,8 @@
       "url": "https://www.msfinance.uzh.ch/en.html",
       "area": "Quantitative Finance",
       "studyType": "MSc",
-      "startDate": "2019-09",
-      "endDate": "2023-02",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "10",
       "courses": []
     },
@@ -78,8 +80,8 @@
       "url": "https://www.oec.uzh.ch/en/academic-programs/bachelor/oec/bf.html",
       "area": "Banking and Finance",
       "studyType": "BA",
-      "startDate": "2015-09",
-      "endDate": "2018-12",
+      "startDate": "2015",
+      "endDate": "2018",
       "score": "10",
       "courses": []
     }

@@ -107,7 +107,13 @@
       "icon": ""
     }
   ],
-  "interests": [],
+  "interests": [
+    "Footbal ⚽",
+    "Basketball 🏀",
+    "Gym 💪",
+    "Hiking ⛰️",
+    "Exploring cities 🌃"
+  ],
   "references": [],
   "projects": []
 }

@@ -20,4 +20,4 @@ Data Scientist and ML engineer with a background in Quantitative Finance
 
 I have hands-on experience developing ML applications end-to-end in Python. Furthermore, I have 3+ years of experience working in the financial industry.
 
-See [cv](/_pages/cv.md) for my work experience and there are examples of repositories that I have contributed or fully written, see [repositories](/_pages/repositories.md).
+See [cv](/cv/) for my work experience and there are examples of repositories that I have contributed or fully written, see [repositories](/repositories/).

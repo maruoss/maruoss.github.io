@@ -107,12 +107,18 @@
       "icon": ""
     }
   ],
-  "hobbies": [
-    "Football \u26BD",
-    "Basketball &#x1F3C0;",
-    "Gym \uD83D\uDCAA",
-    "Hiking \uD83C\uDF06",
-    "Exploring cities \uD83C\uDF06"
+  "interests": [
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Football \u26BD",
+        "Basketball &#x1F3C0;",
+        "Gym \uD83D\uDCAA",
+        "Hiking \uD83C\uDF06",
+        "Exploring cities \uD83C\uDF06"
+      ]
+    }
   ],
   "references": [],
   "projects": []

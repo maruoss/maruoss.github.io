@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I have hands-on experience in developing ML applications end-to-end in Python. My expertise extends to building robust systems that adhere to industry best practices, ensuring scalability and maintainability throughout the development lifecycle.
+I am passionate about programming, data science and statistics. I have hands-on experience in developing ML applications end-to-end in Python. Let’s connect and explore how my skills can elevate your team!
 
-See [cv](/cv/) for my work experience. Examples of repositories that I have contributed or fully written, see [repositories](/repositories/).
+See [cv](/cv/) for my work experience and education. For research projects that I have contributed or fully written during my studies, see [repositories](/repositories/).

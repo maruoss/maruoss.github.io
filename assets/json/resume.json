@@ -26,10 +26,10 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Construct end-to-end ML pipelines using Python",
-        "Optimize models to enhance forecast accuracy using mlflow",
-        "Implementation of CI/CD pipelines in gitlab",
-        "Review and debugging of team members code",
+        "Constructing end-to-end ML pipelines using Python",
+        "Optimizing models to enhance forecast accuracy using mlflow",
+        "Implementing of CI/CD pipelines in gitlab",
+        "Reviewing and debugging of team members code",
         "Testing using pytest"
       ]
     },

@@ -16,6 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have hands-on experience developing ML applications end-to-end in Python. Furthermore, I have 3+ years of experience working in the financial industry.
+
+Welcome! I'm Mathias Ruoss, a Data Scientist and Quant. With a Master's in Quantitative Finance from ETH Zurich and over three years of Python expertise, I specialize in constructing ML pipelines, optimizing models, and applying advanced statistical methods to drive insightful decisions. Let's connect and explore how my skills can elevate your team.
 
 See [cv](/cv/) for my work experience. Examples of repositories that I have contributed or fully written, see [repositories](/repositories/).

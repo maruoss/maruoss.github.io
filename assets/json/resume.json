@@ -28,7 +28,7 @@
       "highlights": [
         "Constructing end-to-end ML pipelines using Python",
         "Optimizing models to enhance forecast accuracy using mlflow",
-        "Implementing of CI/CD pipelines in gitlab",
+        "Implementing CI/CD pipelines in gitlab",
         "Reviewing and debugging of team members code",
         "Testing using pytest"
       ]

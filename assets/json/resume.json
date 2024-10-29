@@ -23,14 +23,13 @@
       "position": "Data Science Intern",
       "url": "",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2024",
       "summary": "",
       "highlights": [
-        "Constructing end-to-end ML pipelines using Python",
-        "Optimizing models to enhance forecast accuracy using mlflow",
-        "Implementing CI/CD pipelines in gitlab",
-        "Reviewing and debugging of team members code",
-        "Testing using pytest"
+        "Constructed end-to-end ML pipelines predicting Swiss CPI oil and rental indices using Python",
+        "Optimized models to enhance forecast accuracy using mlflow",
+        "Implemented CI/CD pipelines in gitlab (automated testing, static code analysis, package deployment on internal pypi mirror)",
+        "Reviewed, debugged (VSCode IDE) and tested code using pytest"
       ]
     },
     {
